@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="title_add_note">Add note</string>
+    <string name="title_delete_notes">Select notes to delete</string>
+    <string name="menu_add_note">New note</string>
+    <string name="menu_delete_notes">Delete notes</string>
+
+    <string name="fab_save_note">Save</string>
+    <string name="hint_note_title">Title</string>
+    <string name="hint_note_body">Start typing</string>
+    <string name="error_empty_fields">You must specify a title and a body for the note</string>
+    <string name="note_save_success">Note created successfully</string>
+    <string name="error_save_note">Unknown error occurred</string>
+
+    <string name="deleted_notes">Deleted %d notes</string>
+
+</resources>
